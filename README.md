@@ -1,1 +1,0 @@
-Tämä on Unity Versiohallintakurssin testirepositorio
